@@ -6,7 +6,7 @@ public class Main {
         anotherMethod();
     }
     public static void anotherMethod() {
-        String text = "some text";
+        String text = "new text";
         System.out.println(text);
     }
 
