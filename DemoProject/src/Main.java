@@ -6,7 +6,8 @@ public class Main {
         anotherMethod();
     }
     public static void anotherMethod() {
-        System.out.println("text for another method");
+        String text = "some text";
+        System.out.println(text);
     }
 
 }
